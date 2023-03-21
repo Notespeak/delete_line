@@ -7,7 +7,4 @@ A very simple python script that allows users to delete a particular file.
 4. Run '''source ~/.bashrc'''
 # Usage
 Now you can use the delete_line command to delete a specific line from a file. For example, to delete line 56 from the /Users/example file, you would run:
-
-bash
-Copy code
-delete_line /Users/example 56
+''' delete_line /Users/example 56 '''
