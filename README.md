@@ -1,5 +1,5 @@
 # Delete_line
-A very simple python script that allows users to delete a particular file. 
+A very simple python script that allows users to delete a particular line in a file. 
 # Installation
 1. Download the script
 2. chmod +x delete_line.py
